@@ -60,31 +60,31 @@
 
 進入關卡前會顯示目前 Stage，讓玩家確認即將開始的關卡。
 
-![關卡提示畫面](./images/stage_intro.png)
+![關卡提示畫面](./image/stage_intro.png)
 
 #### 3. 遊戲主畫面
 
 遊戲主畫面包含玩家坦克、敵方坦克、磚牆、鋼牆、基地與右側 HUD。右側 HUD 會顯示剩餘敵人數量、玩家生命數與目前關卡。
 
-![遊戲主畫面](./images/gameplay.png)
+![遊戲主畫面](./image/gameplay.png)
 
 #### 4. 分數彈出效果
 
 敵人被擊破後會顯示對應分數，道具取得時也會顯示 500 分，讓玩家可以直接在地圖上看到得分結果。
 
-![分數彈出效果](./images/score_popup.png)
+![分數彈出效果](./image/score_popup.png)
 
 #### 5. Stage Clear 結算畫面
 
 通關後會進入 Stage Clear 畫面，統計不同類型敵人的擊破數量、分數與總擊破數。
 
-![Stage Clear 結算畫面](./images/stage_clear.png)
+![Stage Clear 結算畫面](./image/stage_clear.png)
 
 #### 6. Game Over 畫面
 
 當基地被摧毀或玩家生命數耗盡時，會顯示 Game Over 畫面。
 
-![Game Over 畫面](./images/game_over.png)
+![Game Over 畫面](./image/game_over.png)
 
 
 ---
