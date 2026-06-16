@@ -366,10 +366,6 @@ Compatibility with CMake < 3.5 has been removed from CMake.
 ```text
 File → Settings → Build, Execution, Deployment → CMake → CMake options
 ```
-貼上
-```text
--DCMAKE_POLICY_VERSION_MINIMUM=3.5
-```
 
 加入後請重新 Reload CMake Project。若仍無法正常編譯，可刪除 `cmake-build-debug/` 後再重新 Reload。
 
